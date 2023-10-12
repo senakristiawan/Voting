@@ -13,6 +13,7 @@ Voting is another mini project. This program is about election system. The progr
    ![image](https://github.com/senakristiawan/Voting/assets/118242816/85008c6e-a226-4570-aa4d-f57ecd07af7e)
    
 **4. Exit**
+
    ![image](https://github.com/senakristiawan/Voting/assets/118242816/358b5056-33d6-49b4-8931-c6717a749809)
    
 
