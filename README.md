@@ -3,6 +3,7 @@
 Voting is another mini project. This program is about election system. The program features are, 
 
 **1. Add Leader Candidate**
+
 ![image](https://github.com/senakristiawan/Voting/assets/118242816/1b7203a8-6360-4ba4-97f3-e17ef30a460d)
    
 **2. Vote A Candidate**
